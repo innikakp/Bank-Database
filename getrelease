@@ -1,0 +1,6 @@
+sccs get mainmenu.cpp
+sccs get record.h
+sccs get llist.cpp
+sccs get uifunction.cpp
+sccs get llist.h
+sccs get Makefile
