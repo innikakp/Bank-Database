@@ -1,2 +1,2 @@
 # Bank-Database
-A database of records made using a linked list
+A database of records made using a linked list for the final project of ICS212
